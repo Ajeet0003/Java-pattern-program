@@ -46,7 +46,6 @@ public class DiamondStar {
                 } else {
                     System.out.print("  ");
                 }
-
             }
             b--;
             System.out.println();
