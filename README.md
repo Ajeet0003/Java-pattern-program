@@ -1,7 +1,7 @@
 # Java-pattern-program
 Print a pattern in Java
 
-**Right Triangle Star Pattern**
+**1 Right Triangle Star Pattern**
 ```java
 *
 **
@@ -10,7 +10,7 @@ Print a pattern in Java
 *****
 ```
 
-**Left Triangle Star Pattern**
+**2 Left Triangle Star Pattern**
 ```java
     *
    **
@@ -19,7 +19,7 @@ Print a pattern in Java
 *****
 ```
 
-**Pyramid Star Pattern**
+**3 Pyramid Star Pattern**
 ```java
      * 
     * * 
@@ -28,7 +28,7 @@ Print a pattern in Java
  * * * * *
 ```
 
-**Diamond Shape Pattern**
+**4 Diamond Shape Pattern**
 ```java
     *
    * *
@@ -40,8 +40,20 @@ Print a pattern in Java
    * *
     *
 ```
+**5 Diamond Star Pattern**
+```java
+    *
+   * *
+  *   *
+ *     *
+*       *
+ *     *
+  *   *
+   * *
+    *
+```
 
-**Mirrored Right Triangle Star Pattern**
+**6 Mirrored Right Triangle Star Pattern**
 ```java
         *
       * *
@@ -49,7 +61,7 @@ Print a pattern in Java
   * * * *
 * * * * *
 ```
-**Downward Triangle Star Pattern**
+**7 Downward Triangle Star Pattern**
 ```java
 * * * * *
 * * * *
