@@ -41,18 +41,19 @@ Print a pattern in Java
     *
 ```
 
-**Diamond Star Pattern**
+**Mirrored Right Triangle Star Pattern**
 ```java
-    *
-   * *
-  *   *
- *     *
-*       *
- *     *
-  *   *
-   * *
-    *
+        *
+      * *
+    * * *
+  * * * *
+* * * * *
 ```
-
-
-
+**Downward Triangle Star Pattern**
+```java
+* * * * *
+* * * *
+* * *
+* *
+*
+```
